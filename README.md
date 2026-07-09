@@ -21,6 +21,3 @@ You only need to do this once. The installer sets up JumpNDodge's built-in updat
 
 Every game version is also available as a portable `.zip` (no installation, no admin rights) in **[erqf1/JumpNDodge-Archive](https://github.com/erqf1/JumpNDodge-Archive)**.
 
-## Source code
-
-JumpNDodge's source code is developed in a private repository.
