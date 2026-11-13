@@ -4,7 +4,9 @@
 alone, with two players on one keyboard, or **online** against and with your friends.
 
 Since version 5.0 JumpNDodge is the **Rust Edition**: starts instantly, runs at your monitor's refresh rate, stays sharp at any
-scaling, has online multiplayer and updates itself. Website: [mert.win/jump](https://mert.win/jump/)
+scaling, has online multiplayer and updates itself.
+
+**Website: [mert.win/jump](https://mert.win/jump/)** – password: **W** or **Mert**
 
 ## Download
 
@@ -35,5 +37,6 @@ Older versions (including the Python version) are in **[erqf1/JumpNDodge-Archive
 **Deutsch:** Ab Version 5.0 ist JumpNDodge die Rust Edition mit Online-Multiplayer und eingebautem Updater. Unter
 [Releases → Latest](https://github.com/erqf1/JumpNDodge/releases/latest) die Datei für dein System laden (Tabelle oben) oder über
 W Hub installieren. Dein Spielstand wird übernommen.
+Webseite: [mert.win/jump](https://mert.win/jump/) – Passwort: **W** oder **Mert**
 
 License: Apache-2.0
